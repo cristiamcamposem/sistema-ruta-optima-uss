@@ -65,11 +65,12 @@ node tests/dijkstra.test.js
 
 | Nombre | Rol |
 |--------|-----|
-| [Apellidos y Nombres] | Analista |
-| [Apellidos y Nombres] | Diseñador |
-| [Apellidos y Nombres] | Programador |
-| [Apellidos y Nombres] | Documentador |
-| [Apellidos y Nombres] | Tester |
+| [Angel Jeampier Hoyos Toro|
+|Daniel Heiner Delgado Guillermo|
+|cristian benitez|
+|Diego Giampiere Sánchez Chunga|
+
+]
 
 ---
 
